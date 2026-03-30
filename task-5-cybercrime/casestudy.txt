@@ -1,1 +1,9 @@
+UPI and online payment fraud has become one of the most common forms of cybercrime in India today. In such cases, scammers try to trick users into sharing sensitive information or approving fake payment requests.
 
+A common situation involves a fraudster pretending to be a buyer or a bank representative. They may contact the victim through calls, messages, or online platforms and send a payment request link or QR code. The victim is often told that they need to “accept” or “scan” it in order to receive money, but in reality, this action leads to money being deducted from their account.
+
+Students and people who are not fully aware of how digital payment systems work are often targeted, as they may trust such requests easily. In some cases, fraudsters also create fake customer care numbers or websites to appear more genuine and gain the victim’s trust.
+
+The impact of such fraud can be serious, including financial loss, stress, and a lack of trust in digital systems. In some situations, victims may lose a significant amount of money within a very short time.
+
+This case clearly shows the importance of being aware and cautious while making online transactions. Understanding how these scams operate is the first and most important step in preventing them.
